@@ -1,5 +1,5 @@
 import React from "react";
-import { Timeline, Events, UrlButton, ImageEvent } from "@merc/react-timeline";
+import { Timeline, Events, ImageEvent } from "@merc/react-timeline";
 
 // projects
 import Capture from "../../assets/img/projects/Capture.JPG";
