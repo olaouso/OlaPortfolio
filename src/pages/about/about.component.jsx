@@ -22,7 +22,7 @@ const About = () => {
             <Col xs={12} md={6}>
               <Row className=" align-items-start p-2 my-details rounded">
                 Hi there! I am <strong>&nbsp;Ola Ouso</strong>
-                <br/>Full-Stack web developer with a passion for coding and building web Apps.
+                <br/>Front-End web developer with a passion for coding and building web Apps.
                 With experience in HTML, CSS, JavaScript, React JS, node.js, and firebase.
                 Seeking to and attending Re: Coded's Front End Web Development Bootcamp changed my future and encourage me to make a career shift to work what I have a passion for, where I was Senior Finance Officer working for a Syrian NGO. I have good experience in programs' management after I worked as a Senior program officer for the same  NGO for three years.
                 Also, I worked as a tutor for college students for one year in Syria.
