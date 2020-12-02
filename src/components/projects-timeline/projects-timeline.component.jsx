@@ -2,15 +2,11 @@ import React from "react";
 import { Timeline, Events, ImageEvent } from "@merc/react-timeline";
 
 // projects
-import Capture from "../../assets/img/projects/Capture.JPG";
-// import L_MernTipCalc from "../../assets/img/projects/mern_tip_calc.webp";
-// import L_GetGitHubInfo from "../../assets/img/projects/get_github_info.webp";
-// import L_SmartBrain from "../../assets/img/projects/brain.webp";
-// import L_RoboFriends from "../../assets/img/projects/Robofriends.webp";
-// import L_ProductHuntClone from "../../assets/img/projects/product_hunt_clone.webp";
-// import L_PortfolioUsingDjango from "../../assets/img/projects/portfolioUsingDjango.webp";
-// import Accordion from "react-bootstrap/Accordion";
-// import Card from "react-bootstrap/Card";
+import portfolio from "../../assets/img/projects/portfolio.JPG";
+import fortunFound from "../../assets/img/projects/fortunFound.JPG";
+import MadLibs from "../../assets/img/projects/MadLibs.JPG";
+import movieProject from "../../assets/img/projects/movieProject.JPG";
+
 
 // skills
 // import L_REACT from "../../assets/img/skills/react.svg";
@@ -39,11 +35,11 @@ const TimeLine = () => {
         <Events>
         {/* Project: Todo List With MUI */}
         <ImageEvent
-            date="01/9/2020"
+            date="30/11/2020"
             className="text-center"
-            text="Madlibz Project"
-            src={Capture}
-            alt="Madlibz Project"
+            text="Portfolio website Project"
+            src={portfolio}
+            alt="Portfolio website Project"
           >
             {/* <div className="d-flex justify-content-between flex-column mt-1">
               <div>
@@ -147,11 +143,12 @@ const TimeLine = () => {
 
 {/* Project: MERN Tip Calculator */}
       <ImageEvent
-            date="16/09/2020"
-            className="text-center"
-            text="Movie Project"
-            // src={L_MernTipCalc}
-            alt="Movie Project"
+           date="26/11/2020"
+           className="text-center"
+           text="fortun Found Website Project"
+           src={fortunFound}
+           alt="fortun Found Website Project"
+        
           >
             {/* <div className="d-flex justify-content-between flex-column mt-1">
               <div>
@@ -259,11 +256,11 @@ const TimeLine = () => {
 
           {/* Project: Get GitHub Info */}
           <ImageEvent
-            date="19/10/2020"
+            date="16/09/2020"
             className="text-center"
-            text="Board Project"
-            // src={L_GetGitHubInfo}
-            alt="Board Project"
+            text="Movie Project"
+            src={movieProject}
+            alt="Movie Project"
           >
             {/* <div className="d-flex justify-content-between flex-column mt-1">
               <div>
@@ -366,11 +363,12 @@ const TimeLine = () => {
 
           {/* Project: Smart Brain */}
           <ImageEvent
-            date="26/11/2020"
-            className="text-center"
-            text="Full website Project"
-            // src={L_SmartBrain}
-            alt="Full website Project"
+          date="01/9/2020"
+          className="text-center"
+          text="Madlibz Project"
+          src={MadLibs}
+          alt="Madlibz Project"
+            
           >
             {/* <div className="d-flex justify-content-between flex-column mt-1">
               <div>

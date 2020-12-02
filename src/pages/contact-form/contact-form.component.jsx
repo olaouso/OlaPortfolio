@@ -20,7 +20,7 @@ const ContactForm = () => {
               </a>
             </div>
             <div className="m-2">
-              <a href="https://www.linkedin.com/in/anand-kumar-jha-745798a4/" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.linkedin.com/in/ola-ouso-78554845/" target="_blank" rel="noopener noreferrer">
                 <Button variant="outline-primary" title="Visit my LinkenIn">
                   <i className="fab fa-linkedin"></i> LinkedIn
                 </Button>
@@ -28,7 +28,7 @@ const ContactForm = () => {
             </div>
             
             <div className="m-2">
-              <a href="https://github.com/akjha96" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/olaouso" target="_blank" rel="noopener noreferrer">
                 <Button variant="outline-dark" title="My other projects">
                   <i className="fab fa-github-square"></i> GitHub
                 </Button>
