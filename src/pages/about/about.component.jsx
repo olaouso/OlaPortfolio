@@ -22,10 +22,12 @@ const About = () => {
             <Col xs={12} md={6}>
               <Row className=" align-items-start p-2 my-details rounded">
                 Hi there! I am <strong>&nbsp;Ola Ouso</strong>
-                <br/>Full-Stack web developer with a passion for coding and building web Apps.
-                With experience in HTML, CSS, JavaScript, React JS, node.js, and firebase.
-                Seeking to and attending Re: Coded's Front End Web Development Bootcamp changed my future and encourage me to make a career shift to work what I have a passion for, where I was Senior Finance Officer working for a Syrian NGO. I have good experience in programs' management after I worked as a Senior program officer for the same  NGO for three years.
-                Also, I worked as a tutor for college students for one year in Syria.
+                <br/>
+Front-End web developer has a passion for coding and building web apps and websites using React JS, JavaScript, CSS and HTML. Being a part of Re: Coded front-end development Bootcamp for the last five months equipped me with coding experience and tools besides soft skills allows me to overcome any obstacles in this field.
+Throughout my journey of working for more than four years for a Syrian NGO as a Senior Program Officer in two sectors then as a Senior Finance officer for four sectors gave me the chance of working with more than 11 donors and manage more than 20 teams both ways remotely and in-person by this I gained the experience of being a good team player who manages the work under different policies in different circumstances with people from variant backgrounds, besides the managerial skills, this experience provides me with the resilience to manage the projects from different perspectives as a project manager then as a finance officer in different sectors. 
+Through my work and study, I always believed in teamwork and realized that it is the magical recipe to achieve miracles, more than that, I realized that sharing my experience and learning from other's experience ensured me and the teams I worked with the continued development at all level and the high quality and productivity where the whole team can reap the fruits of success.
+In the last three years, I accomplished an MBA at the university of south wales besides my work, this experience to manage my time between full-time work and study enhanced my ability of time management and maintained my concentration and productivity under pressures or mental stress.
+
                 <br/> <br/>
                 <Col className="d-flex justify-content-center flex-wrap">
                   <div>

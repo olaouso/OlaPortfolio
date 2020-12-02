@@ -35,7 +35,7 @@ const TitleMessage = () => (
   <MyTitleMessage>
     <div className="titleMessage">
       <div className="heading">
-        <div className="main text-center mb-3">
+        <div className="main mb-3">
           Hi, I am
           <br />
           <span>

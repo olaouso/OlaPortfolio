@@ -1,14 +1,12 @@
-.logo {
-  width: 25%;
-}
+
 
 .nav-theme {
-  background-color: #101018f8;
+  background-color: palevioletred;
   font-size: 20px;
 }
 
 .animate-navbar {
-  box-shadow: 1px 1px 1px #222;
+  box-shadow: 1px 1px 1px  palevioletred ;
   animation: moveDown 0.5s ease-in-out;
 }
 
