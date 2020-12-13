@@ -11,13 +11,13 @@ const MyCarousal = () => {
     <div id="home">
       <Carousel controls={false} indicators interval={2500} pause={false}>
         <Carousel.Item>
-          <img src={Slide2} width="100%" alt="First slide" />
+          <img src={Slide2} width="100%" height="1100px" alt="First slide" />
         </Carousel.Item>
         <Carousel.Item>
-          <img  src={Slide3} width="100%" alt="Third slide" />
+          <img  src={Slide3} width="100%" height="1100px" alt="Third slide" />
         </Carousel.Item>
         <Carousel.Item>
-          <img src={Slide1} width="100%" alt="Third slide" />
+          <img src={Slide1} width="100%" height="1100px" alt="Third slide" />
         </Carousel.Item>
       </Carousel>
       <ScrollDown />

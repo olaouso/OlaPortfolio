@@ -5,7 +5,7 @@ import Col from "react-bootstrap/Col";
 import "./about.styles.css";
 import Profile from "../../assets/img/profile/profile.JPG";
 import Image from "react-bootstrap/Image";
-import Button from "react-bootstrap/Button";
+// import Button from "react-bootstrap/Button";
 
 const About = () => {
   return (
@@ -27,7 +27,7 @@ const About = () => {
                 Seeking to and attending Re: Coded's Front End Web Development Bootcamp changed my future and encourage me to make a career shift to work what I have a passion for, where I was Senior Finance Officer working for a Syrian NGO. I have good experience in programs' management after I worked as a Senior program officer for the same  NGO for three years.
                 Also, I worked as a tutor for college students for one year in Syria.
                 <br/> <br/>
-                <Col className="d-flex justify-content-center flex-wrap">
+                {/* <Col className="d-flex justify-content-center flex-wrap">
                   <div>
                     <a href="#contact">
                       <Button className="m-2" variant="outline-primary">
@@ -56,7 +56,7 @@ const About = () => {
                       </Button>
                     </a>
                   </div>
-                </Col>
+                </Col> */}
               </Row>
             </Col>
           </Row>

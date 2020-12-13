@@ -2,7 +2,7 @@ import React from "react";
 import Container from "react-bootstrap/Container";
 import Jumbotron from "react-bootstrap/Jumbotron";
 import Card from "react-bootstrap/Card";
-import L_ACCENTURE from "../../assets/img/experience/accenture-3.svg";
+// import L_ACCENTURE from "../../assets/img/experience/accenture-3.svg";
 import Tilt from "react-tilt";
 import "./experience.styles.css";
 
@@ -14,16 +14,16 @@ const Experience = () => {
         <Container>
           <Tilt options={{ max: 25 }}>
             <Card>
-              <Card.Header as="h5" className="d-flex justify-content-center flex-wrap">
+              {/* <Card.Header as="h5" className="d-flex justify-content-center flex-wrap">
                 <Card.Img variant="top" className="img-resize" src={L_ACCENTURE} alt="Accenture logo" />
-              </Card.Header>
+              </Card.Header> */}
               <Card.Body className="d-flex justify-content-center flex-column">
                 <div>
-                  <Card.Title className="text-center">Associate Software Engineer</Card.Title>
+                  <Card.Title className="text-center">Front-End web developer</Card.Title>
                 </div>
                 <div>
                   <Card.Text className="text-center style">
-                    <strong className="body-title-style ">Full Stack Developer</strong>
+                    {/* <strong className="body-title-style ">Full Stack Developer</strong> */}
                     <br />
                     <strong>Technology:</strong> React JS, JavaScript, HTML, CSS, Firebase
                     <br />

@@ -25,7 +25,7 @@ const Skills = () => {
                   {skills.frontend.map((skill, index) => (
                     <span className="p-2" key={index}>
                       <a className="text-dark text-decoration-none" href={skill.link} target="_blank" rel="noopener noreferrer">
-                        <Image src={skill.imgSrc} alt={skill.imgAltText} rounded className="image-style m-1"></Image> {skill.skillName}
+                        <Image width="50%" height="50%" src={skill.imgSrc} alt={skill.imgAltText} rounded className="image-style m-1"></Image> {skill.skillName}
                       </a>
                     </span>
                   ))}
