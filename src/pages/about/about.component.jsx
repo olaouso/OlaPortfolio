@@ -22,10 +22,7 @@ const About = () => {
             <Col xs={12} md={6}>
               <Row className=" align-items-start p-2 my-details rounded">
                 Hi there! I am <strong>&nbsp;Ola Ouso</strong>
-                <br/>Front-End web developer with a passion for coding and building web Apps.
-                With experience in HTML, CSS, JavaScript, React JS, node.js, and firebase.
-                Seeking to and attending Re: Coded's Front End Web Development Bootcamp changed my future and encourage me to make a career shift to work what I have a passion for, where I was Senior Finance Officer working for a Syrian NGO. I have good experience in programs' management after I worked as a Senior program officer for the same  NGO for three years.
-                Also, I worked as a tutor for college students for one year in Syria.
+                <br/>Programs management experience for more than four years at the seniority level in the humanitarian work sector, occupying positions as a senior program officer in two sectors, programs consultant, then as a senior finance officer, gave me the chance of managing about 18 projects, working with more than 11 donors and managing more than 15 teams both ways remotely and in-person, in addition to developing SoPs and managerial tools to implement the projects in an efficient and effective way. I believe in teamwork and know that it is a magical recipe to achieve miracles and seek to find a challenging work opportunity where I can share my experience, enrich it, and participate to add a positive impact on people's lives. As well as being Re: Coded alumni I have a good experience in front-end web development and familiar with Re: Coded Bootcamps work flow.
                 <br/> <br/>
                 {/* <Col className="d-flex justify-content-center flex-wrap">
                   <div>
