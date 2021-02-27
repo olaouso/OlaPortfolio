@@ -31,13 +31,8 @@ const Experience = () => {
                     <br/>
                     <strong> Description </strong>
                     <ul className="text-left">
-                      <li><strong>Developed &amp; enhanced</strong> multiple features with customizability option across web application.</li>
-                      <li><strong>Provided</strong> application maintenance while working as `Production Support`. 
-                      </li>
-                      <li><strong>Performed</strong> CRUD operations on multiple databases to load/ remove data according 
-                      to the business requirements.</li>
-                      {/* <li><strong>Co-created</strong> React Document used as a guide for new developers.</li> */}
-
+                      <li><strong>Designed &amp; Developed</strong> multiple projects using JavaScript, ReactJS within teams.</li>
+                    
                     </ul>
                     
                     
